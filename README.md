@@ -1,7 +1,7 @@
 ├── data/
 │   ├── raw/
 │   ├── processed/
-├── notebooks/
+├── notebooks/ 
 │   ├── EDA.ipynb
 │   ├── training.ipynb
 ├── src/
